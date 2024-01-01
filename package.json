@@ -9,6 +9,8 @@
   "author": "sixdigitguy",
   "license": "ISC",
   "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "agora-rtc-sdk-ng": "^4.20.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",

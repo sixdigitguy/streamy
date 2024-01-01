@@ -1,0 +1,7 @@
+Show db
+
+use ----
+
+show collections
+
+db.collection_name.find()  /////shows all  
